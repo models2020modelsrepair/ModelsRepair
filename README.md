@@ -1,6 +1,6 @@
 # Errors in dataset of 107 used for MODELS Submission
 
-This page offers a complete overview of the 12 errors supported by the tool.
+This page offers a complete overview of the 12 errors found in our dataset supported by the tool.
 
 ## E1: The opposite of a transient reference must be transient if it is proxy resolving
 
